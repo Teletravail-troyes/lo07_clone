@@ -1,0 +1,2 @@
+- name: Extract Pull Request Metadata
+  uses: rowi1de/action-extract-pull-metadata@hackathon
